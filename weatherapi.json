@@ -1,0 +1,33 @@
+{
+    "data": {
+      "time": "2023-05-20T06:21:00Z",
+      "values": {
+        "cloudBase": null,
+        "cloudCeiling": null,
+        "cloudCover": 0,
+        "dewPoint": 10.31,
+        "freezingRainIntensity": 0,
+        "humidity": 18,
+        "precipitationProbability": 0,
+        "pressureSurfaceLevel": 984.92,
+        "rainIntensity": 0,
+        "sleetIntensity": 0,
+        "snowIntensity": 0,
+        "temperature": 38.81,
+        "temperatureApparent": 37.25,
+        "uvHealthConcern": 3,
+        "uvIndex": 8,
+        "visibility": 11.24,
+        "weatherCode": 1000,
+        "windDirection": 231.38,
+        "windGust": 6.13,
+        "windSpeed": 2.38
+      }
+    },
+    "location": {
+      "lat": 30.671510696411133,
+      "lon": 73.11105346679688,
+      "name": "ساہِيوال, Sahiwal Tehsil, پنجاب, پاکستان",
+      "type": "city"
+    }
+  }
